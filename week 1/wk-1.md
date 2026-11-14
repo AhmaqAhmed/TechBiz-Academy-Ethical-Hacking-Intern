@@ -86,17 +86,17 @@ sudo apt update  # 78 MB fetched, 1588 packages available
 week 1/
 ├── README.md
 ├── task 1/
-│   ├── week1_task1_report.pdf
+│   ├── report1.pdf
 │   ├── Cyber security careers overview/
 │   ├── Intro to Offensive Security/
 │   └── Pentesting Fundamentals/
 ├── task 2/
-│   ├── week1_task2_report.pdf
+│   ├── report2.pdf
 │   ├── what is networking/
 │   ├── Introductory Networking/
 │   └── networking concepts/
 └── task 3/
-    ├── week1_task3_report.pdf
+    ├── report3.pdf
     ├── kali linux/
     └── thm/
 ```
