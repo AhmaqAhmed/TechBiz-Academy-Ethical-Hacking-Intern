@@ -84,7 +84,7 @@ sudo apt update  # 78 MB fetched, 1588 packages available
 
 ```
 week 1/
-├── README.md
+├── wk-1.md (readme for week 1)
 ├── task 1/
 │   ├── report1.pdf
 │   ├── Cyber security careers overview/
