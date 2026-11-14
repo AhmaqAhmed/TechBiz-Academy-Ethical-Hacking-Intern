@@ -37,7 +37,7 @@ This repository contains all three task submissions for Week 1 of the TechBiz Et
 
 **Deadline:** Nov 14, 2026 · **Max Score:** 10 pts
 
-**Report:** [`task 2/week1_task2_report.pdf`](./task%202/week1_task2_report.pdf)
+**Report:** [`task 1/report2.pdf`](./task%201/report2.pdf)
 
 **Topics covered in the report:**
 - IP addressing: IPv4, IPv6, and MAC addresses
@@ -56,7 +56,7 @@ This repository contains all three task submissions for Week 1 of the TechBiz Et
 
 **Deadline:** Nov 16, 2026 · **Max Score:** 10 pts
 
-**Report:** [`task 3/week1_task3_report.pdf`](./task%203/week1_task3_report.pdf)
+**Report:** [`task 1/report3.pdf`](./task%201/report3.pdf)
 
 **Topics covered in the report:**
 - Why set up a hacking lab (isolated virtualized environment)
